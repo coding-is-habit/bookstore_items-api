@@ -1,1 +1,1 @@
-# bookstore_iterms-api
+# bookstore_items-api
